@@ -28,7 +28,7 @@ if (!isset($_SESSION["datos-usuario"])) {
 ?>
 <html>
     <head>
-        <title>Papi PetStore | Inicio</title>
+        <title>Happy PetStore | Inicio</title>
         <!-- for-mobile-apps -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
