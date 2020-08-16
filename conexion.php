@@ -1,8 +1,8 @@
 <?php
 /*Conexion con el servidor*/
-$hostname = "MYSQLCONNSTR_localdb"; // servidor local, si fuera externo se pone la ip
+$hostname = "52.173.28.95"; // servidor local, si fuera externo se pone la ip
 $database = "bd_proyecto_tienda";
-$username = "";
+$username = "azure";
 $passwordbd = "";
 
 $mysql = new mysqli($hostname, $username, $passwordbd, $database);
