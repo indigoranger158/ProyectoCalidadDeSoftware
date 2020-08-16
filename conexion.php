@@ -1,6 +1,6 @@
 <?php
 /*Conexion con el servidor*/
-$hostname = "localhost"; // servidor local, si fuera externo se pone la ip
+$hostname = "52.173.28.95"; // servidor local, si fuera externo se pone la ip
 $database = "bd_proyecto_tienda";
 $username = "root";
 $passwordbd = "";
