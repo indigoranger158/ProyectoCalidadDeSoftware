@@ -28,7 +28,7 @@ if (!isset($_SESSION["datos-usuario"])) {
 ?>
 <html>
     <head>
-        <title>Firulais Store: La mejor Tienda de Ropa para Animales</title>
+        <title>Firulais Fidelitas Costa Rica Pet-Store: sus prendas para mascota</title>
         <!-- for-mobile-apps -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
